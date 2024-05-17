@@ -1,2 +1,1 @@
-wike link --> md link
-1
+wikeLink2MdLink
