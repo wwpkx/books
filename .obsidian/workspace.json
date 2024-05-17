@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "a7fcc8c9d8509ac4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc74df35e87b9093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1afe3018beee9934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tool/00.1 Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5dbf5890f8efdb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 compile/1 gcc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4032227be8561f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dba12b36211df60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da9d213ed3185e9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33080297c9b5498c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pdf",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11d45801ca9b88a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a27668665fb62a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "f2d98fcf7cfa9ce9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0739588c29535a89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cb30035c9f457ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 compile/1 gcc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4d0620705a8f16da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 compile/1 gcc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6dd5298fe727d145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb36a635f91e21ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 compile/1 gcc.md"
+              }
+            }
+          },
+          {
+            "id": "54cd865a2d691105",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "81685e0b43de7beb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "95e4e23b6960a1c3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pkmer:Open Pkmer Market": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "5dbf5890f8efdb04",
+  "lastOpenFiles": [
+    "tool/00.1 Processing.md",
+    "tool/obsidian设置.md",
+    "photo/Pasted image 20240517095613.png",
+    "todo/人工智能学习路线图.pdf",
+    "06 python/1.2.1 python虚拟环境管理 - workon.md",
+    "06 python/1.1 Python解释器.md",
+    "06 python/1.2 venv虚拟环境.md",
+    "todo/神经网络.md",
+    "todo/数学.md",
+    "tool/下载软件.md",
+    "07 神经网络/01.5.2 BP神经网络算法.md",
+    "photo/Pasted image 20240511212440.png",
+    "photo/Pasted image 20240511212428.png",
+    "photo/Pasted image 20240511211933.png",
+    "photo/Pasted image 20240511211648.png",
+    "07 神经网络/01.5.1 从单层感知机到多层感知机.md",
+    "photo/Pasted image 20240511205807.png",
+    "photo/Pasted image 20240511205711.png",
+    "photo/Pasted image 20240511205613.png",
+    "photo/Pasted image 20240511204954.png",
+    "photo/Pasted image 20240511204938.png",
+    "07 神经网络/01.4 perceptrons 感知机.md",
+    "07 神经网络/01.5 BP算法.md",
+    "07 神经网络/01.3 M-P模型.md",
+    "07 神经网络/01.2 神经元历史.md",
+    "07 神经网络/01.1 了解神经元.md",
+    "07 神经网络/01.0 神经元资源.md",
+    "07 神经网络/01 神经元.md",
+    "todo/jetpack compose.md",
+    "todo/资源.md",
+    "todo/图书.md",
+    "07 opencv/0 不太明白.md",
+    "07 神经网络",
+    "tool/00.2 儿童编程.md",
+    "tool/00.1.1 资源.md",
+    "tool/00 编程.md",
+    "tool/常用软件.md",
+    "07 高等数学/00 数学通识",
+    "00 compile - 副本/compile",
+    "00 compile - 副本",
+    "03 gradle",
+    "07 概率论与数理统计",
+    "07 高等数学/00 数学故事",
+    "07 高等数学/05 积分",
+    "00 web",
+    "未命名.canvas"
+  ]
+}
