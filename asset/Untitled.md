@@ -1,3 +1,4 @@
 ---
-Annotation-target: 1高等数学.pdf
+Annotation-target: [[abc.pdf]]
 ---
+[[abc.pdf]]
