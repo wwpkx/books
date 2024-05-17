@@ -1,10 +1,8 @@
 [
-  "obsidian-git",
-  "table-editor-obsidian",
   "obsidian-clipper",
   "obsidian-excel-to-markdown-table",
   "oz-clear-unused-images",
-  "pkmer",
   "obsidian-markmind",
-  "obsidian-regex-pipeline"
+  "obsidian-regex-pipeline",
+  "obsidian-git"
 ]
