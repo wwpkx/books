@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "trashOption": "local",
   "newFileLocation": "current",
   "attachmentFolderPath": "/photo",
